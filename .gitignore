@@ -1,0 +1,11 @@
+venv/
+venv310/
+.venv/
+__pycache__/
+.env
+alerts/
+*.jpg
+*.jpeg
+*.png
+*.wav
+*.mp4
